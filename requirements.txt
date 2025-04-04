@@ -1,0 +1,8 @@
+tensorflow>=2.8.0
+numpy>=1.19.5
+opencv-python>=4.5.3
+matplotlib>=3.4.3
+mediapipe>=0.10.5
+scikit-learn>=1.2.0
+flask>=2.0.0
+flask-cors>=3.0.0
